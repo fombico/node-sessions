@@ -3,15 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "dependencies" : {
-  	"express": "*",
-  	"morgan": "*",
-  	"body-parser": "*",
-  	"ejs": "*",
-    "express-basic-auth": "*",
-    "cookie-parser":"*",
-    "express-session":"*",
-    "express-useragent" : "*"
+  "dependencies": {
+    "express": "*",
+    "morgan": "*",
+    "cookie-parser": "*",
+    "express-session": "*",
+    "express-useragent": "*"
   },
   "author": "",
   "license": "ISC"
